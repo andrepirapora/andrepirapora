@@ -1,9 +1,16 @@
-### Ferramentas e Tecnologias
 
+## Olá, bem vindo ao meu perfil! Me chamo André.
+### E sou apaixonado por tecnologia e por desenvolvimento Flutter, além de ser apaixonado por NodeJS e desenvolvimento Android.
+
+<br/>
+
+### Ferramentas e Tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
