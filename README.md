@@ -1,5 +1,9 @@
 ### Ferramentas e Tecnologias
+<<<<<<< HEAD
 <div>
+=======
+
+>>>>>>> 7533bd6a602132e71ff267d184c6b219a0aef6cb
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
@@ -11,7 +15,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<<<<<<< HEAD
 </div>
+=======
+>>>>>>> 7533bd6a602132e71ff267d184c6b219a0aef6cb
 
 ### Contatos:
 
