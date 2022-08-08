@@ -1,6 +1,6 @@
 
 ## Olá, bem vindo ao meu perfil! Me chamo André.
-### E sou apaixonado por tecnologia e por desenvolvimento Flutter, além de ser apaixonado por NodeJS e desenvolvimento Android.
+### E sou apaixonado por tecnologia e por desenvolvimento Flutter, além de ser fã de carteirinha de NodeJS e desenvolvimento Android.
 
 <br/>
 
