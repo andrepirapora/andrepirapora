@@ -1,5 +1,5 @@
 
-## Olá, bem vindo ao meu perfil :rocket
+## Olá, bem vindo ao meu perfil 🚀 
 ### E sou apaixonado por tecnologia e por desenvolvimento em NodeJS, estou sempre procurando novos desafios e expandir os limites do meu conhecimento.
 
 <br/>
